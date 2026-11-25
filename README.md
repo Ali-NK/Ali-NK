@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ali Nawaz Khan 👋
 
-<!--
-**Ali-NK/Ali-NK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer (Full-Stack)** · PHP · Laravel · React.js · REST APIs
 
-Here are some ideas to get you started:
+📍 Lahore, Pakistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build secure, scalable web applications end to end, from database design and REST APIs to the UI. Currently a Senior Software Engineer at **Physicians Revenue Group (PRG)**, where I build HIPAA-compliant internal platforms for healthcare operations.
+
+### 🛠 What I've built
+- **Performance Reporting System:** dashboards and reports on team and operational metrics, with role-based access to protected data
+- **Credentialing Ticketing System:** end-to-end tracking of provider credentialing requests
+- **Practice Management System:** core modules for clinical and administrative workflows
+- **Helpdesk Platform:** a support tool for operations teams to log, assign and resolve issues
+
+*(These are internal company systems, so their code isn't public.)*
+
+### 🧰 Tech stack
+- **Backend:** PHP, Laravel, REST APIs
+- **Frontend:** React.js, JavaScript, HTML5, CSS3, Bootstrap
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Postman, Jira, VS Code
+
+### 🤝 Connect
+- LinkedIn: [linkedin.com/in/alinawaz-khan](https://www.linkedin.com/in/alinawaz-khan)
+- Email: alii.skiper@gmail.com
